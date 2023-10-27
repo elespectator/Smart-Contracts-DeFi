@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 
 
 contract HelloWorld {
-    uint public answer = 42; // After deployment,
+    uint public answer = 420; // After deployment,
 //        this is stored on the blockchain
 }
 
